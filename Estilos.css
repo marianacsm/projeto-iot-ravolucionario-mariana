@@ -48,7 +48,7 @@ padding: 0;
 /*Banner*/
 .banner {
 height: 500px;
-background-image: url("Aula_HTML_CSS/imgs/bg-jelly-fish-para-home.png");
+background-image: url("../acquatec_site/imgs/bg-jelly-fish-para-home.png");
 background-size: cover;
 }
 

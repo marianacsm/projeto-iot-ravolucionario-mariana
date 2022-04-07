@@ -1,6 +1,6 @@
 /*Body: pega a tela toda "pai do site"*/
 body{
-    background-image: url(); background-repeat: no-repeat; background-size: 1500px 700px;
+    background-image: url("../acquatec_site/imgs/bg-jelly-fish-para-home.png"); background-repeat: no-repeat; background-size: 1500px 700px;
     background-color: black;
 margin: 0px;
 /* top left botton right */
